@@ -22,7 +22,7 @@
         "image": "https://raw.githubusercontent.com/whilu/LiuDan/master/thumbs/1555828013772491.video_thumb.jpg",
         "rating": 8.1,
         "url": "https://raw.githubusercontent.com/whilu/LiuDan/master/videos/1555828013772491.mp4",
-        "skipReview": false
+        "skipReview": true
       },
       {
         "title": "没别的想法",
