@@ -5,7 +5,8 @@
         "pubdate": "2019.4.19",
         "image": "https://raw.githubusercontent.com/whilu/LiuDan/master/thumbs/1555843786910568.video_thumb.jpg",
         "rating": 7.2,
-        "url": "https://raw.githubusercontent.com/whilu/LiuDan/master/videos/1555843786910568.mp4"
+        "url": "https://raw.githubusercontent.com/whilu/LiuDan/master/videos/1555843786910568.mp4",
+        "skipReview": false
       }
     ]
 }
