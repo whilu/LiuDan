@@ -1,39 +1,46 @@
 {
   "videos": [
       {
-        "title": "熊孩子的舅舅和爸爸",
-        "pubdate": "2019.4.21",
+        "title": "小孩子的舅舅和爸爸",
+        "pubdate": "2019-4-21",
         "image": "https://raw.githubusercontent.com/whilu/LiuDan/master/thumbs/1555828018854981.video_thumb.jpg",
         "rating": 8.1,
         "url": "https://raw.githubusercontent.com/whilu/LiuDan/master/videos/1555828018854981.mp4"
       },
       {
-        "title": "迟到就应当罚酒",
-        "pubdate": "2019.4.21",
+        "title": "迟到就应罚酒",
+        "pubdate": "2019-4-21",
         "image": "https://raw.githubusercontent.com/whilu/LiuDan/master/thumbs/1555828014179957.video_thumb.jpg",
         "rating": 8.4,
         "url": "https://raw.githubusercontent.com/whilu/LiuDan/master/videos/1555828014179957.mp4"
       },
       {
-        "title": "风雨都不算什么，伞还是要玩的",
-        "pubdate": "2019.4.21",
+        "title": "就是想玩玩儿伞",
+        "pubdate": "2019-4-21",
         "image": "https://raw.githubusercontent.com/whilu/LiuDan/master/thumbs/1555828013772491.video_thumb.jpg",
         "rating": 8.1,
         "url": "https://raw.githubusercontent.com/whilu/LiuDan/master/videos/1555828013772491.mp4"
       },
       {
-        "title": "就想搭个车",
-        "pubdate": "2019.4.21",
+        "title": "没别的想法",
+        "pubdate": "2019-4-21",
         "image": "https://raw.githubusercontent.com/whilu/LiuDan/master/thumbs/1555828015757834.video_thumb.jpg",
         "rating": 7.2,
         "url": "https://raw.githubusercontent.com/whilu/LiuDan/master/videos/1555828015757834.mp4"
       },
       {
         "title": "人生的大道理",
-        "pubdate": "2019.4.21",
+        "pubdate": "2019-4.20",
         "image": "https://raw.githubusercontent.com/whilu/LiuDan/master/thumbs/1555828017947072.video_thumb.jpg",
         "rating": 9.1,
         "url": "https://raw.githubusercontent.com/whilu/LiuDan/master/videos/1555828017947072.mp4"
+      },
+      {
+        "title": "狗狗心中一万头...",
+        "pubdate": "2019-4-19",
+        "image": "https://raw.githubusercontent.com/whilu/LiuDan/master/thumbs/1555828018441326.video_thumb.jpg",
+        "rating": 8.8,
+        "url": "https://raw.githubusercontent.com/whilu/LiuDan/master/videos/1555828018441326.mp4"
       }
     ]
 }
